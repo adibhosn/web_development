@@ -1,2 +1,3 @@
 # web_development
-Where my web development projects are
+
+Welcome to my web development repository! This repository contains various code snippets, projects, and experiments related to web development
